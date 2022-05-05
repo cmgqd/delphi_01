@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>1899-12-30 00:00:00.000.622,=C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.856,=C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.479,=C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.273,=C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.651,=C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
     <Transaction>1899-12-30 00:00:00.000.332,=C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.651,=C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
     <Transaction>1899-12-30 00:00:00.000.242,=C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2022-05-05 14:19:14.096,=C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2022-05-05 14:20:46.482,D:\cmglx\gitlx\main.pas=C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2022-05-05 14:20:46.482,D:\cmglx\gitlx\main.dfm=C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2022-05-05 14:22:17.229,D:\cmglx\gitlx\m_procject.dproj=C:\Users\Administrator\Documents\RAD Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.482,C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.pas=D:\cmglx\gitlx\main.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.096,=C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.273,=C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.229,C:\Users\Administrator\Documents\RAD Studio\Projects\Project2.dproj=D:\cmglx\gitlx\m_procject.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.482,C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.dfm=D:\cmglx\gitlx\main.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.622,=C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.479,=C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.856,=C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
   </Transactions>
 </BorlandProject>
